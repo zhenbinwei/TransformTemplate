@@ -1,0 +1,11 @@
+com/weizhenbin/plugin/TransformTemplate.java
+ com.weizhenbin.plugin.TransformTemplate
+ com.weizhenbin.plugin.TransformTemplate$1
+com/weizhenbin/plugin/TransformPlugin.java
+ com.weizhenbin.plugin.TransformPlugin
+com/weizhenbin/plugin/MyTransform3.java
+ com.weizhenbin.plugin.MyTransform3
+ com.weizhenbin.plugin.MyTransform3$1
+ com.weizhenbin.plugin.MyTransform3$1$1
+ com.weizhenbin.plugin.MyTransform3$ClassPrint
+ com.weizhenbin.plugin.MyTransform3$MethodPrint

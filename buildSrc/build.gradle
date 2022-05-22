@@ -1,0 +1,23 @@
+
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
+
+repositories {
+    google()
+    mavenCentral()
+    maven {
+        url "https://repo.spring.io/release"
+    }
+    maven {
+        url "https://repository.jboss.org/maven2"
+    }
+}
+dependencies {
+    implementation 'com.android.tools.build:gradle:4.2.2'
+    implementation 'org.ow2.asm:asm:9.2'
+    implementation 'org.ow2.asm:asm-commons:9.1'
+    implementation gradleApi()
+}
