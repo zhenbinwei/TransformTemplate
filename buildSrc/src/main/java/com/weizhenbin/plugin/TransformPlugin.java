@@ -6,7 +6,6 @@ import org.gradle.api.Plugin;
 import org.gradle.api.Project;
 
 /**
- * @Author evan.wei.xl
  * @Date 2022/5/21-7:31 下午
  * @DESC
  */

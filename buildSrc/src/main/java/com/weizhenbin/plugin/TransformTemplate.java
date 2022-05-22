@@ -55,7 +55,6 @@ import static com.android.build.api.transform.QualifiedContent.DefaultContentTyp
 import static com.google.common.base.Preconditions.checkNotNull;
 
 /**
- * @Author evan.wei.xl
  * @Date 2022/5/21-3:16 下午
  * @DESC
  */
